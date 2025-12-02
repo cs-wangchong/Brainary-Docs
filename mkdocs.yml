@@ -9,10 +9,9 @@ theme:
 
 nav:
   - Home: index.md
-  - Guide:
-      - Quickstart: QUICKSTART.md
-      - User Manual: USER_MANUAL.md
-      - API: API_REFERENCE.md
+  - Quickstart: QUICKSTART.md
+  - User Manual: USER_MANUAL.md
+  - API: API_REFERENCE.md
 
 
 markdown_extensions:

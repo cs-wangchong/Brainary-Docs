@@ -8,8 +8,9 @@ theme:
   name: material
 
 nav:
-  - Home: QUICKSTART.md
+  - Home: index.md
   - Guide:
+      - Quickstart: QUICKSTART.md
       - User Manual: USER_MANUAL.md
       - API: API_REFERENCE.md
 

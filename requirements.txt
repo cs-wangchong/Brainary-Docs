@@ -1,0 +1,6 @@
+mkdocs
+mkdocs-material
+mkdocs-markdownextradata-plugin
+mkdocs-autoreload-plugin
+mkdocs-awesome-pages-plugin
+pymdown-extensions

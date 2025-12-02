@@ -26,8 +26,3 @@ markdown_extensions:
 
 plugins:
   - search
-
-
-plugins:
-  - search
-  - autorepo

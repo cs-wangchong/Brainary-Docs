@@ -52,8 +52,8 @@ brain.remember(
 - **[User Manual](USER_MANUAL.md)**: Comprehensive guide to using Brainary
 - **[API Reference](API_REFERENCE.md)**: Complete API documentation
 - **[SDK Guide](SDK_GUIDE.md)**: Advanced SDK usage and patterns
-- **[Introduction](INTRODUCTION.md)**: Deep dive into Brainary's architecture and philosophy
-- **[Memory Debugging](MEMORY_DEBUGGING.md)**: Tools and techniques for debugging memory operations
+- **[An Example: Java Vulnerability Detection](https://github.com/cs-wangchong/Brainary-JavaVulnDetector/)**: Intelligent Java vulnerability detection powered by Brainary's multi-agent architecture
+
 
 ## Requirements
 
